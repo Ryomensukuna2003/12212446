@@ -72,7 +72,6 @@ app.post("/shorturls", async (req, res) => {
 // GET /:shortcode - redirect
 app.get("/:shortcode", async (req, res) => {
     const { shortcode } = req.params;
-    console.log("ShortCode : "+shortcode);
 
     // Debug logging
     await Log("backend", "debug", "route", `Looking for shortcode: ${shortcode}`);
