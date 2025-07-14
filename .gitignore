@@ -1,5 +1,3 @@
-# nodemodules
-/server/node_modules
-/client/node_modules
-README.md
-# Logs
+**/.env
+**/node_modules/
+**/dist/
