@@ -1,6 +1,6 @@
 # Full Stack URL Shortener
 
-This repository contains the Full Stack solution for Affordmed's Campus Hiring Evaluation, including:
+This repository contains the Full Stack solution for including:
 
 - A reusable **Logging Middleware** package
 - A **URL Shortener Microservice** (Backend)
